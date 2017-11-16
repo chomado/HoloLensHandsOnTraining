@@ -49,12 +49,13 @@ IDs|種類|項目|バージョン|ダウンロード先|当日までのアクシ
 ### HoloLens を開発者モードに
 
 開発PCと同様に、HoloLens も開発者モードにしましょう。
-
-その方法についてはこちらの記事が詳しいです：    
-[HoloLens チュートリアルの実機動作 by @Suna ](https://qiita.com/Suna/items/194989d8fa1d9bc3cc97)    
+   
 `Settings` > `Update & Security` > `For Developers` > `Developer mode` を ON にする
 
-![](img/holoDevMode.png)
+こちらの記事が詳しいです：    
+[HoloLens チュートリアルの実機動作 by @Suna ](https://qiita.com/Suna/items/194989d8fa1d9bc3cc97)     
+↓その記事の画像から
+![](img/holoDevMode.png)     
 
 
 ## 3. 開発 PC に入れる Visual Studio のバージョン
