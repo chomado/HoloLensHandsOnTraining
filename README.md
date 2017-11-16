@@ -75,7 +75,7 @@ Visual Studio 2017 を入れます。
 ダウンロードはこちらから：    
 [unity3d.com/.../archive](https://unity3d.com/get-unity/download/archive) の「Unity 2017.1.2」の「インストーラー」
 
-![](img/unityin.PNG)
+![](img/unityin.png)
 
 そして、
 
