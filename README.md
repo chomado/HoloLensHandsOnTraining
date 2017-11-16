@@ -8,8 +8,8 @@
 ＃|種類|項目|バージョン|ダウンロード先|当日までのアクション
 ----|----|----|----|----|----
 1|開発機の OS|Windows 10|10/16 に振ってきた Fall Creators Update 以上が適用されている (つまり `16299.15` 以上)|Windows 設定アプリの「更新とセキュリティ」から|開発PCに要インストール
-2|HoloLens の OS|Windows 10|最新のバージョン|`Settings`  > `Update & Security` > `Device Update` > `Check for updates`|HoloLens に要インストール
-3|開発環境|Visual Studio 2017|`15.4.x`|[visualstudio.com/.../vs2017-relnotes](https://www.visualstudio.com/ja-jp/news/releasenotes/vs2017-relnotes)|開発PCに要インストール
+2|HoloLens の OS|Windows Holographic 10|最新のバージョン|`Settings`  > `Update & Security` > `Device Update` > `Check for updates`|HoloLens に要インストール
+3|開発環境|Visual Studio 2017|`15.4.x`|[visualstudio.com/ja/downloads/](https://www.visualstudio.com/ja/downloads/)|開発PCに要インストール
 4|開発環境|Unity|【決め打ち】<br>`2017.1.2`|[unity3d.com/.../archive](https://unity3d.com/get-unity/download/archive) の「Unity 2017.1.2」|開発PCに要インストール
 5|SDK|Windows 10 SDK|【決め打ち】<br>`10.0.14393` と `10.0.10586`|Visual Studio のインストーラの「編集」から|開発PC(VS)に要インストール
 6|SDK|MixedRealityToolkit-Unity for Unity|【決め打ち】<br>`v1.2017.1.2`|[github.com/Microsoft/.../Unitypackages](https://github.com/Microsoft/MixedRealityToolkit-Unity/tree/master/External/Unitypackages) の「HoloToolkit-Unity-v1.2017.1.2.unitypackage」|開発PCにダウンロードしておく
@@ -29,16 +29,26 @@
 
 ![](https://fud.community.services.support.microsoft.com/Fud/FileDownloadHandler.ashx?fid=05415d7b-0480-4f8d-be0f-eeb055c558cd)
 
+また、追加の操作として、「開発者モード」にしておいてください。    
+
+`設定` > `更新とセキュリティ` > `開発者向け` > `開発者モード`
+
 ### 2. HoloLens の OS
 
 また、HoloLens の OS のバージョンも最新に上げておいてください。       
 方法:
 
-`Settings`  > `Update & Security` > `Device Update` > `Check for updates` 
+`Settings`  > `Update & Security` > `Device Update` > `Check for updates` ( > `Restart now (今すぐ再起動)`)
 
 この作業を `Your device is up to date` (最新) となるまで繰り返してください。
 
-![](https://us.v-cdn.net/6026774/uploads/editor/nx/u6slxk7mxjkn.jpg)
-
-
 ### 3. 開発 PC に入れる Visual Studio のバージョン
+
+Visual Studio 2017 を入れます。
+
+項目|値
+----|----
+あなたのマシンの VS の<br>現在のバージョンの確認方法|Visual Studio 2017 を開く > メニューバーの `ヘルプ` (一番右) > `Microsoft Visual Studio のバージョン情報` で出てきたウィンドウの、2行目に書いてあります (例：`Version 15.4.1`)
+入れるバージョン|`15.4.x`
+入れ方|こちらからダウンロード：[https://www.visualstudio.com/ja/downloads/](https://www.visualstudio.com/ja/downloads/)
+
