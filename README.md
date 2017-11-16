@@ -1,8 +1,8 @@
-# ホロレンズのハンズオン
+# HoloLens ハンズオン
 
 ## 環境
 
-開発PCやホロレンズにインストールしておくもの一覧
+開発 PC や HoloLens にインストールしておくもの一覧
 
 種類|項目|バージョン|ダウンロード先|当日までのアクション
 ----|----|----|----|----
@@ -11,4 +11,4 @@ OS|Windows 10|10/16 に振ってきた Fall Creators Update が適用されて�
 開発環境|Unity|2017.1.2|[unity3d.com/.../archive](https://unity3d.com/get-unity/download/archive) の「Unity 2017.1.2」|開発PCに要インストール
 SDK|Windows 10 SDK|10.0.14393 と 10.0.10586|Visual Studio のインストーラの「編集」から|開発PC(VS)に要インストール
 SDK|MixedRealityToolkit-Unity for Unity|v1.2017.1.2|[github.com/Microsoft/.../Unitypackages](https://github.com/Microsoft/MixedRealityToolkit-Unity/tree/master/External/Unitypackages) の「HoloToolkit-Unity-v1.2017.1.2.unitypackage」|開発PCにダウンロードしておく
-ホロレンズ用アプリ|Holographic Remoting|(何でもいい)|ホロレンズに入れてね。ホロレンズの Windows Store から「[Holographic Remoting](https://www.microsoft.com/ja-jp/store/p/holographic-remoting-player/9nblggh4sv40)」で検索してインストール|ホロレンズに要インストール
+HoloLens 用アプリ|Holographic Remoting|(何でもいい)| **開発PCではなく、HoloLens に入れます。** HoloLens の Windows Store から「[Holographic Remoting](https://www.microsoft.com/ja-jp/store/p/holographic-remoting-player/9nblggh4sv40)」で検索してインストール| **HoloLens に** 要インストール
