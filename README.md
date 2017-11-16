@@ -1,5 +1,7 @@
 # HoloLens ハンズオン - 開発環境の準備編 -
 
+（このドキュメントについて、Pull Request 大歓迎です）
+
 ## 開発 PC や HoloLens にインストールしておくもの一覧表
 
 このハンズオンをやるにあたり、準備していただきたい環境の一覧を載せます。    
@@ -8,7 +10,7 @@
 IDs|種類|項目|バージョン|ダウンロード先|当日までのアクション
 ----|----|----|----|----|----
 1<br>![](img/icon/win10.png)|開発機の OS|Windows 10|10/16 に振ってきた Fall Creators Update 以上が適用されている (つまり `16299.15` 以上)|Windows 設定アプリの「更新とセキュリティ」から|開発PCに要インストール
-2<br>![](img/icon/win10.png)|HoloLens の OS|Windows Holographic 10|最新のバージョン|`Settings`  > `Update & Security` > `Device Update` > `Check for updates`|HoloLens に要インストール
+2<br>![](img/icon/win10.png)|HoloLens の OS|Windows Holographic 10|最新のバージョン|`Settings`  > `Update & Security` > `Device Update` > `Check for updates`<br>また、開発者モードに設定もする(方法は後述)|HoloLens に要インストール
 3<br>![](img/icon/vs2017.png)|開発環境|Visual Studio 2017|`15.4.x`|[visualstudio.com/ja/downloads/](https://www.visualstudio.com/ja/downloads/)|開発PCに要インストール
 4<br>![](img/icon/unity.png)|開発環境|Unity|【決め打ち】<br>`2017.1.2`|[unity3d.com/.../archive](https://unity3d.com/get-unity/download/archive) の「Unity 2017.1.2」のインストーラで<br>`Windows Store` 用コンポーネント2つをチェック入れた状態でインストール|開発PCに要インストール
 5|SDK|Windows 10 SDK|【決め打ち】<br>`10.0.14393` と `10.0.10586`|Visual Studio のインストーラの「編集」から|開発PC(VS)に要インストール
@@ -43,6 +45,17 @@ IDs|種類|項目|バージョン|ダウンロード先|当日までのアクシ
 `Settings`  > `Update & Security` > `Device Update` > `Check for updates` ( > `Restart now (今すぐ再起動)`)
 
 この作業を `Your device is up to date` (最新) となるまで繰り返してください。
+
+### HoloLens を開発者モードに
+
+開発PCと同様に、HoloLens も開発者モードにしましょう。
+
+その方法についてはこちらの記事が詳しいです：    
+[HoloLens チュートリアルの実機動作 by @Suna ](https://qiita.com/Suna/items/194989d8fa1d9bc3cc97)    
+`Settings` > `Update & Security` > `For Developers` > `Developer mode` を ON にする
+
+![](img/holoDevMode.png)
+
 
 ## 3. 開発 PC に入れる Visual Studio のバージョン
 
@@ -88,3 +101,4 @@ Visual Studio 2017 を入れます。
 
 ![unity](img/unityinstall.png)
 
+## 
