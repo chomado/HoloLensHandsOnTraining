@@ -9,7 +9,7 @@
 
 IDs|種類|項目|バージョン|ダウンロード先|当日までのアクション
 ----|----|----|----|----|----
-1<br>![](img/icon/win10.png)|開発機の OS|Windows 10|10/16 に振ってきた Fall Creators Update 以上が適用されている (つまり `16299.15` 以上)|Windows 設定アプリの「更新とセキュリティ」から|開発PCに要インストール
+1<br>![](img/icon/win10.png)|開発機の OS|Windows 10|10/16 に降ってきた Fall Creators Update 以上が適用されている (つまり `16299.15` 以上)|Windows 設定アプリの「更新とセキュリティ」から|開発PCに要インストール
 2<br>![](img/icon/win10.png)|HoloLens の OS|Windows Holographic 10|最新のバージョン|`Settings`  > `Update & Security` > `Device Update` > `Check for updates`<br>また、開発者モードに設定もする(方法は後述)|HoloLens に要インストール
 3<br>![](img/icon/vs2017.png)|開発環境|Visual Studio 2017|`15.4.x`|[visualstudio.com/ja/downloads/](https://www.visualstudio.com/ja/downloads/)|開発PCに要インストール
 4<br>![](img/icon/unity.png)|開発環境|Unity|【決め打ち】<br>`2017.1.2`|[unity3d.com/.../archive](https://unity3d.com/get-unity/download/archive) の「Unity 2017.1.2」のインストーラで<br>`Windows Store` 用コンポーネント2つをチェック入れた状態でインストール|開発PCに要インストール
@@ -26,7 +26,7 @@ IDs|種類|項目|バージョン|ダウンロード先|当日までのアクシ
 項目|値
 ----|----
 あなたのマシンの OS の<br>現在のバージョンの確認方法|こちらを参照:「[Windows のバージョン確認方法](https://www.microsoft.com/ja-jp/safety/protect/ver_win.aspx)」の「ビルド番号」
-入れるバージョン|10/16 に振ってきた Fall Creators Update 以上が適用されている (つまり`16299.15` 以上)<br>要は Windows 10 の最新の状態にしておけば間違いないです。(not Insider Preview 版)
+入れるバージョン|10/16 に降ってきた Fall Creators Update 以上が適用されている (つまり`16299.15` 以上)<br>要は Windows 10 の最新の状態にしておけば間違いないです。(not Insider Preview 版)
 アップデートの仕方|こちらを参照：「[Windows Update の利用手順 - Windows 10 の場合](https://www.microsoft.com/ja-jp/safety/protect/musteps_win10.aspx)」
 
 ![](https://fud.community.services.support.microsoft.com/Fud/FileDownloadHandler.ashx?fid=05415d7b-0480-4f8d-be0f-eeb055c558cd)
