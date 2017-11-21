@@ -13,7 +13,7 @@ Unity を起動します。（ Windows キーを押して「`Unity`」とタイ�
 
 プロジェクトが作成されました。
 
-![](img/CreatedProject.PNG)
+![](img/createdProject.PNG)
 
 ## 2. 「カメラ」(視線の起点) の設定
 
