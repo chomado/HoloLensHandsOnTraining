@@ -1,6 +1,24 @@
-# HoloLens ハンズオン - 開発環境の準備編 -
+# HoloLens ハンズオン
 
 （このドキュメントについて、Pull Request 大歓迎です）
+
+## スケジュール
+
+HoloLens 初めての人向けのハンズオンです。   
+
+#|時間|やること|詳細
+----|----|----|----
+0|前日までに|事前準備|<a href="#prep">こちらの開発環境構築(準備)</a>を完了させておいてください
+1|30分間|セミナー (座学)|HoloLens 概要<ol><li>Windows Mixed Reality (MR) とは</li><li>HoloLens 用アプリ開発の流れ</li></ol>
+2|15分間|HandsOn (1)|初めての HoloLens チュートリアル。<br />各種操作方法についてレクチャー<br />
+3|15分間|HandsOn 手順説明(デモ)|講師(私)がデモをお見せします<br /><ol><li>今日のハンズオンで作るアプリの完成形をお見せする</li><li>Unity Hello 3D World 的なアプリ作成</li><li>MR ToolKit の使い方</li><li>Visual Studio での Coding</li><li>空間認識の機能追加</li></ol>
+4|90 - 120分間|HandsOn (2)|（ハンズオン資料へのリンク）
+5|おまけ|お勧めアプリ紹介|よくMR体験会で使われているアプリ紹介
+
+
+
+<a id="prep"></a>
+# HoloLens ハンズオン - 開発環境の準備編 -
 
 ## 開発 PC と HoloLens の事前準備について
 
