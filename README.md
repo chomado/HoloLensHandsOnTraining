@@ -61,9 +61,27 @@ Windows 10<br>バージョンの確認方法|こちらを参照:「[Windows の�
 
 HoloLens の OS のバージョンを最新版に更新します。
 
-方法:
+まずスタートメニューを出します。     
+スタートメニューを出すには `Bloom(ブルーム)` (開花) というジェスチャーをします。下の動画のように、手のひらをぶわっとやってください。
 
-`Settings`  > `Update & Security` > `Device Update` > `Check for updates` ( > `Restart now (今すぐ再起動)`)
+![](https://az835927.vo.msecnd.net/sites/mixed-reality/Resources/images/Bloom-giphy.gif)
+
+すると、スタートメニューが出てきます。
+
+![](img/StartMenu.png)
+
+ここの [ `Settings` ] に視点を合わせ、クリック。( `Air tap` という動作をします)
+
+![](img/Readyandpress.jpg)
+
+すると設定ウィンドウが上がってくるので、次は [ `Update & Security` ] をクリック。
+
+![](img/StartMenu2.png)
+
+`Device Update` > `Check for updates` ( > `Restart now (今すぐ再起動)`)
+
+
+![](img/settings.jpg)
 
 この作業を `Your device is up to date` (最新) となるまで繰り返します。
 
