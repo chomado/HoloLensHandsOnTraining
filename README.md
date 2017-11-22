@@ -12,7 +12,7 @@ HoloLens 初めての人向けのハンズオンです。
 1|30分間|セミナー (座学)|HoloLens 概要<ol><li>Windows Mixed Reality (MR) とは</li><li>HoloLens 用アプリ開発の流れ</li></ol>
 2|15分間|HandsOn (1)|初めての HoloLens チュートリアル。<br />各種操作方法についてレクチャー<br />
 3|15分間|HandsOn 手順説明(デモ)|講師(私)がデモをお見せします<br /><ol><li>今日のハンズオンで作るアプリの完成形をお見せする</li><li>Unity Hello 3D World 的なアプリ作成</li><li>MR ToolKit の使い方</li><li>Visual Studio での Coding</li><li>空間認識の機能追加</li></ol>
-4|90 - 120分間|HandsOn (2)|（ハンズオン資料へのリンク。随時更新）<ol><li>[Hello Holo World](documents/1_HelloHoloWorld.md)</li></ol>
+4|90 - 120分間|HandsOn (2)|（ハンズオン資料へのリンク。随時更新）<ol><li>資料は当日お配りします</li></ol>
 5|おまけ|お勧めアプリ紹介|よくMR体験会で使われているアプリ紹介
 
 
