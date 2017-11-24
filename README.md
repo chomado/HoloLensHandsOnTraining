@@ -107,7 +107,7 @@ Visual Studio 2017<br>バージョンの確認方法|Visual Studio 2017 を起�
 必要なバージョン|`15.4.4`
 インストール方法|こちらからダウンロード：[https://www.visualstudio.com/ja/downloads/](https://www.visualstudio.com/ja/downloads/)
 
-## 5. Windows SDK をインストール
+## 5. VS インストーラーにて、UWP SDK & `Game development with Unity` をインストール
 
 4 番目の Unity よりも先にこちらを実行してください。
 
@@ -120,6 +120,12 @@ HoloLens のアプリは Windows 10 アプリ(正確に言うと`UWP アプリ`)
 - `10.0.14393`
 
 ![VS installer](img/vsinstaller.jpg)
+
+また、Unity でのゲーム開発コンポーネントも一緒に入れます。
+
+`Game development with Unity`
+
+![](img/vsinstallWithUnityComponent.PNG)
 
 ## 4. Unity
 
