@@ -33,9 +33,10 @@ HoloLens 初めての人向けのハンズオンです。
 2<br>![](img/icon/win10.png)|HoloLens の OS|Windows Holographic 10|最新のバージョン|`Settings`  > `Update & Security` > `Device Update` > `Check for updates`<br>`開発者モード` に設定します(方法は後述)|HoloLens にインストール
 3<br>![](img/icon/vs2017.png)|開発環境|Visual Studio 2017|`15.4.4`|[visualstudio.com/ja/downloads/](https://www.visualstudio.com/ja/downloads/)|開発 PC にインストール
 4<br>![](img/icon/unity.png)|開発環境|Unity|`2017.1.2`|[unity3d.com/.../archive](https://unity3d.com/get-unity/download/archive) の「Unity 2017.1.2」のインストーラで<br>`Windows Store` 用コンポーネント 2 つをチェック入れた状態でインストール|開発 PC にインストール
-5|SDK|Windows 10 SDK|`10.0.15063` と `10.0.14393` の両方|Visual Studio のインストーラの「編集」から|開発 PC にインストール
-6|SDK|MixedRealityToolkit-Unity for Unity|`v1.2017.1.2`|[github.com/Microsoft/.../Unitypackages](https://github.com/Microsoft/MixedRealityToolkit-Unity/tree/master/External/Unitypackages) の「HoloToolkit-Unity-v1.2017.1.2.unitypackage」|開発 PC にダウンロード
-7<br>![](img/icon/holoremoting.png)|HoloLens 用アプリ|Holographic Remoting|最新版| **開発 PC ではなく、HoloLens にインストールしてください。** HoloLens の Windows Store から「[Holographic Remoting](https://www.microsoft.com/ja-jp/store/p/holographic-remoting-player/9nblggh4sv40)」で検索してインストール| **HoloLens に** インストール
+5|SDK|UWP SDK|`10.0.15063` と `10.0.14393` の両方|Visual Studio のインストーラの「編集」から|開発 PC にインストール
+6|SDK|VS 用 Unity用コンポーネント|--|Visual Studio のインストーラの「編集」から `Unity によるゲーム開発` にチェックし入れる|開発 PC にインストール
+7|SDK|MixedRealityToolkit-Unity for Unity|`v1.2017.1.2`|[github.com/Microsoft/.../Unitypackages](https://github.com/Microsoft/MixedRealityToolkit-Unity/tree/master/External/Unitypackages) の「HoloToolkit-Unity-v1.2017.1.2.unitypackage」|開発 PC にダウンロード
+8<br>![](img/icon/holoremoting.png)|HoloLens 用アプリ|Holographic Remoting|最新版| **開発 PC ではなく、HoloLens にインストールしてください。** HoloLens の Windows Store から「[Holographic Remoting](https://www.microsoft.com/ja-jp/store/p/holographic-remoting-player/9nblggh4sv40)」で検索してインストール| **HoloLens に** インストール
 
 ## 詳細
 
@@ -123,7 +124,7 @@ HoloLens のアプリは Windows 10 アプリ(正確に言うと`UWP アプリ`)
 
 また、Unity でのゲーム開発コンポーネントも一緒に入れます。
 
-`Game development with Unity`
+`Unity によるゲーム開発`
 
 ![](img/vsinstallWithUnityComponent.PNG)
 
