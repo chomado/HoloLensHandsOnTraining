@@ -12,7 +12,7 @@ HoloLens 初めての人向けのハンズオンです。
 1|30分間|セミナー (座学)|HoloLens 概要<ol><li>Windows Mixed Reality (MR) とは</li><li>HoloLens 用アプリ開発の流れ</li></ol>
 2|15分間|デモ|今日のハンズオンの流れのデモ
 3|15分間|HandsOn (1)|初めての HoloLens チュートリアル。<br />各種操作方法についてレクチャー<br />
-4|90 - 120分間|HandsOn (2)|ハンズオン手順の資料は当日お配りします</ol>
+4|90 - 120分間|HandsOn (2)|ハンズオン手順の資料は当日お配りします。<br />もし時間が余ったら[本社 HoloLens チームの作ったチュートリアル集「Academy」](https://developer.microsoft.com/en-us/windows/mixed-reality/academy)があります。[日本語訳](https://github.com/HoloMagicians/HolographicAcademyJP/tree/master/Academy)
 5|おまけ|お勧めアプリ紹介|よくMR体験会で使われているアプリ紹介。[こちらの記事](https://blogs.msdn.microsoft.com/shintak/2017/08/01/hololensapps2017h1/)を参照
 
 
