@@ -1,3 +1,11 @@
+注意！
+
+今後は新しいドキュメントの [github.com/chomado/WindowsMR_GettingStarted/](https://github.com/chomado/WindowsMR_GettingStarted/blob/master/documents/02_InstallationChecklist.md) を更新していくつもりです。
+
+なのでこちらの記事はもう古くなっていきます
+
+ーーーーーーーーー
+
 # HoloLens ハンズオン
 
 （このドキュメントについて、Pull Request 大歓迎です）
